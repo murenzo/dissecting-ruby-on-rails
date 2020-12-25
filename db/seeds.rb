@@ -21,7 +21,7 @@ puts '5 skills created successfully'
     title: "Portfolio title #{portfolio_item}",
     subtitle: 'My awesome service',
     body: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    main_image: 'https://via.placeholder.com/6000x400',
+    main_image: 'https://via.placeholder.com/600x400',
     thumb_image: 'https://via.placeholder.com/350x200'
   )
 end
